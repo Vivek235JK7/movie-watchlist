@@ -1,2 +1,10 @@
-# movie-watchlist
-A beginner-friendly Python CLI project to add, remove, and view movies in a personal watchlist.
+A simple command-line Python project to manage your movie watchlist.
+
+## Features
+- Add movies
+- Remove movies
+- View watchlist
+- Prevent duplicate entries
+
+## Built With
+- Python
